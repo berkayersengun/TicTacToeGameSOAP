@@ -1,2 +1,2 @@
 # TictactoeGameSOAP
-A Tictactoe game using SOAP web services.
+A Multiplayer Tictactoe game using SOAP web services and MySQL databases.
